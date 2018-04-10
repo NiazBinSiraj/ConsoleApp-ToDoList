@@ -1,0 +1,6 @@
+What do you want to do? Please enter number for action.
+
+    1. Add
+    2. Show
+    3. Delete
+    4. Exit
