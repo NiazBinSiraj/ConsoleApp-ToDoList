@@ -1,2 +1,2 @@
 Welcome to the to do list console application.
-This is an simple console application developed in C++ language.
+This is a simple console application developed in C++ language.

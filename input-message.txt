@@ -1,1 +1,1 @@
-Enter task name and description with date
+Enter Date, task name and description with date to add item on the list.
