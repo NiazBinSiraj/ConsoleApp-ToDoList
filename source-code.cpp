@@ -1,6 +1,7 @@
 //To Do List Source Code
 
-#include <bits/stdc++.h>
+#include <cstdio>
+#include <cstring>
 using namespace std;
 #define MX 10000
 
@@ -56,6 +57,7 @@ void add()
 
     gets(s);
     gets(s);
+    if(s[0] == '\0') return;
     p = fopen("list.txt","a");
     fprintf(p,"%d. %s\n",counter()+1,s);
     fclose(p);
